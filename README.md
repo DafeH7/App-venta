@@ -1,2 +1,0 @@
-# App-venta
-Hornado app
